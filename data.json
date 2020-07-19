@@ -1,0 +1,32 @@
+[
+    {
+      "id": "1" ,
+      "signo": "Tauro", 
+      "producto": "Remera", 
+      "price" : 550
+     },
+    {
+      "id": "1" ,
+      "signo": "Libra", 
+      "producto": "Remera", 
+      "price" : 550
+     },
+     {
+      "id": "1" ,
+      "signo": "Capricornio", 
+      "producto": "Taza", 
+      "price" : 550
+    },
+    {
+      "id": "1" ,
+      "signo": "Virgo", 
+      "producto": "Remera", 
+      "price" : 550
+    },
+    {
+      "id": "1" ,
+      "signo": "Cancer", 
+      "producto": "Remera", 
+      "price" : 550
+    }
+]

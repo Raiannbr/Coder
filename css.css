@@ -1,0 +1,79 @@
+header {
+    background: #4b324a;
+    color: rgb(235, 240, 241);
+}
+nav ul{
+    list-style: none;
+    padding: 0%;
+}
+
+nav li{
+    line-height: 4rem;
+    position: relative;
+}
+
+nav a{
+    color: rgba(255, 255, 255, 0.973);
+    text-decoration: none;
+    display: block;
+    padding: 0 2.5em;
+    transition: 2s;
+}
+
+nav a:hover{
+    background: rgba(0, 0, 0, .5);
+}
+
+nav li ul{
+    position: absolute;
+}
+
+nav li ul{
+    display: none;
+}
+
+nav li:hover > ul{
+    display: block;
+}
+
+nav ul ul ul{
+    display: none;
+}
+
+nav > ul{
+    background: rgb(74, 71, 75);
+    display: table;
+    width: 50%;
+}
+nav > ul > li{
+    float: left;
+}
+nav li li{
+    background: rgb(66, 66, 71);
+    width: 200px;
+}
+
+nav ul li ul{
+    top: 100%;
+    width: 100%;
+}
+
+nav ul ul ul{
+   left: 100%;
+   top: 0%;
+}
+
+.Backimg{
+    background: rgb(247, 213, 247);
+    width: 100%;
+}
+
+.img{
+    width: 10%;
+    height:auto;
+    margin: auto;
+    display: inline-table;
+    border-radius: 3px;
+    
+
+}
